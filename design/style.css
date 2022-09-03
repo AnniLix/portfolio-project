@@ -229,13 +229,12 @@ footer .social-links a:hover {
     font-size: 26px;
   }
 
-  .project-description {
+  .project-description, .content {
     padding: 0;
     text-align: center;
   }
 
-  .content {
-    padding: 0;
+  .content h1 {
     text-align: center;
   }
 
