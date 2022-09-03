@@ -46,6 +46,7 @@ p {
 }
 
 .content h1 {
+  text-align: left;
   font-size: 64px;
   line-height: 80px;
 }
@@ -95,7 +96,7 @@ p {
 }
 
 .hero {
-  background: var(--secondary-color);
+  background: var(--basic-color);
   text-align: center;
   padding: 80px 20px;
 }
