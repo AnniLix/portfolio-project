@@ -88,16 +88,23 @@ p {
 
 .second-link {
   border-radius: 4px;
-  padding: 20px 15px;
+  padding: 19px 21px;
   text-decoration: none;
   text-transform: capitalize;
   color: var(--branding-color);
   border: 1px solid var(--branding-color);
 }
 
-.dictionary {
+.dictionary-img {
+  max-width: 100%;
   margin: 0 auto;
   display: block;
+}
+
+.dictionary-app,
+.weather-app {
+  text-decoration: none;
+  color: black;
 }
 
 .hero {
@@ -234,7 +241,8 @@ footer .social-links a:hover {
     font-size: 26px;
   }
 
-  .project-description, .content {
+  .project-description,
+  .content {
     padding: 0;
     text-align: center;
   }
