@@ -102,7 +102,9 @@ p {
 }
 
 .dictionary-app,
-.weather-app {
+.weather-app,
+.car-project,
+.travel-project {
   text-decoration: none;
   color: black;
 }
