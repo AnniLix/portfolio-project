@@ -95,6 +95,11 @@ p {
   border: 1px solid var(--branding-color);
 }
 
+.dictionary {
+  margin: 0 auto;
+  display: block;
+}
+
 .hero {
   background: var(--basic-color);
   text-align: center;
